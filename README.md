@@ -9,7 +9,7 @@ Este proyecto realiza un análisis digital de una página histórica del periód
 ## 📂 Estructura del Repositorio
 
 ```
-el-martillo-ocr-[tunombre]/
+el-martillo-ocr-bianca/
 │
 ├── .gitignore                          # Archivos ignorados por Git
 ├── requirements.txt                    # Dependencias del proyecto

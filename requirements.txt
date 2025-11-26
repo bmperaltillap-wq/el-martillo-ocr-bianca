@@ -1,0 +1,7 @@
+anthropic==0.40.0
+pandas==2.2.0
+matplotlib==3.8.2
+seaborn==0.13.1
+Pillow==10.2.0
+jupyter==1.0.0
+ipykernel==6.29.0

@@ -11,15 +11,18 @@ Este proyecto realiza un análisis digital de una página histórica del periód
 ```
 el-martillo-ocr-[tunombre]/
 │
-├── README.md                          # Este archivo
-├── el_martillo_ocr_analysis.ipynb    # Notebook principal
-├── report.md                          # Reporte de análisis completo
+├── .gitignore                          # Archivos ignorados por Git
+├── requirements.txt                    # Dependencias del proyecto
+├── README.md                           # Documentación principal (este archivo)
+├── report.md                           # Reporte de análisis e insights
+├── el_martillo_ocr_analysis.ipynb     # Notebook con todo el código y análisis
 │
-└── data/
-    ├── el_martillo/
-    │   └── page_01.jpg               # Página escaneada del periódico
-    ├── el_martillo_structured.csv    # Dataset estructurado (6 entradas)
-    └── el_martillo_analysis.png      # Visualizaciones
+└── data/                               # Carpeta de datos
+    ├── el_martillo/                    # Subcarpeta de imágenes originales
+    │   └── page_01.jpg                 # Página escaneada del periódico (3 Feb 1903)
+    │
+    ├── el_martillo_structured.csv      # Dataset estructurado (6 entradas)
+    └── el_martillo_analysis.png        # Visualizaciones generadas
 ```
 
 ## 🎯 Objetivos

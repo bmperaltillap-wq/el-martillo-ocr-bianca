@@ -47,8 +47,8 @@ el-martillo-ocr-bianca/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/el-martillo-ocr-[tunombre].git
-cd el-martillo-ocr-[tunombre]
+git clone https://github.com/tu-usuario/el-martillo-ocr-bianca.git
+cd el-martillo-ocr-bianca
 ```
 
 ### 2. Crear environment de Anaconda
